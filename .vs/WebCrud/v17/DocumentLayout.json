@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\Lithium\\",
+  "WorkspaceRootPath": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\lithium\\webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\lithium\\webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\lithium\\webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,96 +25,41 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebCrud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebCrud\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-07T21:45:40.81Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T13:08:04.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebCrud\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebCrud\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T21:51:33.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Program.cs",
-              "RelativeDocumentMoniker": "WebCrud\\Program.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Program.cs",
-              "RelativeToolTip": "WebCrud\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T20:35:54.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
-              "RelativeToolTip": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T19:55:29.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "WebCrud\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "WebCrud\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:19:43.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "WebCrud\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Models\\Produto.cs",
-              "RelativeToolTip": "WebCrud\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:13:50.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\appsettings.json",
-              "RelativeDocumentMoniker": "WebCrud\\appsettings.json",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\appsettings.json",
-              "RelativeToolTip": "WebCrud\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T19:06:52.629Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\Lithium\\WebCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:51:33.118Z"
             }
           ]
         }

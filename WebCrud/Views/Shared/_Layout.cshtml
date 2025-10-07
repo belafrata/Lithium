@@ -20,13 +20,10 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#produtos">Produtos</a>
+                            <a class="nav-link" asp-controller="Produto" asp-action="Cadastrar">Produtos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#sobre">Sobre</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#contato">Contato</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link position-relative" href="@Url.Action("Index", "Carrinho")">
@@ -41,8 +38,8 @@
                 </div>
             </div>
         </nav>
-
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
