@@ -13,6 +13,70 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\adesivoprodimg.png",
+      "PackagePath": "staticwebassets\\img\\adesivoprodimg.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\cartazprodimg.jpg",
+      "PackagePath": "staticwebassets\\img\\cartazprodimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-cartaz-100.png",
+      "PackagePath": "staticwebassets\\img\\icons8-cartaz-100.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-customizar-100.png",
+      "PackagePath": "staticwebassets\\img\\icons8-customizar-100.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-documento-100.png",
+      "PackagePath": "staticwebassets\\img\\icons8-documento-100.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-qualidade-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-qualidade-50.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-reciclagem-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-reciclagem-50.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-telefone-comercial-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-telefone-comercial-50.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-velocidade-64.png",
+      "PackagePath": "staticwebassets\\img\\icons8-velocidade-64.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\icons8-whatsapp-100.png",
+      "PackagePath": "staticwebassets\\img\\icons8-whatsapp-100.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\imgprodutocartelaadesivos.png",
+      "PackagePath": "staticwebassets\\img\\imgprodutocartelaadesivos.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\imgprodutodocumento.png",
+      "PackagePath": "staticwebassets\\img\\imgprodutodocumento.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\lo.png",
+      "PackagePath": "staticwebassets\\img\\lo.png"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\mufid-majnun-UdDCjj0rR7c-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\mufid-majnun-UdDCjj0rR7c-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\img\\snapmaker-3d-printer-of3zP0kqzw0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\snapmaker-3d-printer-of3zP0kqzw0-unsplash.jpg"
+    },
+    {
       "Id": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
