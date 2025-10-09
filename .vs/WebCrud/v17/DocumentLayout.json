@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\2ds\\desktop\\lithium\\webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
@@ -24,23 +28,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebCrud\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebCrud\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-07T21:45:40.81Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -56,13 +43,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebCrud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebCrud\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-07T21:45:40.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T11:09:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebCrud\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\2ds\\Desktop\\Lithium\\WebCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebCrud\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T13:08:04.89Z",
               "EditorCaption": ""
